@@ -1,0 +1,20 @@
+{
+  "name": "passport-offline",
+  "version": "0.1.0",
+  "description": "PassportJS Provider to allow for easy offline development",
+  "main": "passport-offline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mheap/passport-offline.git"
+  },
+  "keywords": [
+    "passportjs",
+    "offline",
+    "authentication"
+  ],
+  "author": "Michael Heap <m@michaelheap.com>",
+  "license": "BSD"
+}
